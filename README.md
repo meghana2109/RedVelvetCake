@@ -8,7 +8,7 @@ It is a recipe of Red Velvet Cake. It is yummy and fluffy.
 
 <p>
 
-Full Ingredient list is [here] (RedVelvetCake/ingredients.md)
+Full Ingredient list is [here] (https://meghana2109.github.io/RedVelvetCake/ingredients.md)
 
 </p>
 
