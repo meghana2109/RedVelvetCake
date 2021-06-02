@@ -3,3 +3,6 @@
 
 
 It is a recipe of Red Velvet Cake. It is yummy and fluffy.
+
+Full Ingredient list is [here] (https://meghana2109.github.io/RedVelvetCake/ingredients.md)
+Full Recipe is [here] (https://meghana2109.github.io/RedVelvetCake/recipe.md)
