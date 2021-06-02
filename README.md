@@ -10,8 +10,7 @@ Full Ingredient list is
 
 <https://meghana2109.github.io/RedVelvetCake/ingredients.md>
   </p>
-  <p>
+
 [Click here for full receipe](recipe.md)
-</p>
 
 
