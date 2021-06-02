@@ -13,6 +13,6 @@ Full Ingredient list is
 
 
 <p>
-Full Recipe is [here] (RedVelvetCake/recipe.md)
+Full Recipe is [here] : (RedVelvetCake/recipe.md)
 
 </p>
